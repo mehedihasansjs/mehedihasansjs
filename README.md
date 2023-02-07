@@ -23,3 +23,7 @@ A motivated software engineer with 3 years of experience designing and implement
   - Trained 3 trainees to become professional and industry experts.
 
 ---
+
+## Stats
+
+![Mehedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehedihasan-git&show_icons=true&theme=dracula&count_private=true&hide_rank=true)

@@ -22,6 +22,14 @@ A motivated software engineer with 3 years of experience designing and implement
   - Optimized the source code of the ERP solution, resulting in a 12% improvement in application speed.
   - Trained 3 trainees to become professional and industry experts.
 
+.
+
+- **_Junior Software Engineer_**, AITS Idea Ltd., Dhaka (June 2020 - June 2021)
+
+  - Designed and developed a fashion website from scratch using Angular, which was inspired by Boohoo.
+  - Created the initial version of a mobile application for a flat management system (Jomidar) using React Native.
+  - Designed and developed the initial version of a mobile application for an e-commerce platform using Ionic.
+
 ---
 
 ## Stats

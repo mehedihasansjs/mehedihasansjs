@@ -20,11 +20,6 @@ A motivated software engineer who know a table spoon of frontend and a tea spoon
 - Reading a lot of articles
 - Walking. A lot of walking.
 
-### Tools I use
-- **Primary Machine:** MacBook Pro M1 Pro 14 Inch, 16GB RAM, 512GB SSD
-- **Secondary Machine:** Lenovo E14, 14 Inch, 24GB RAM, 1TB SSD, AMD Ryzen 5000
-- **Mobile Phone:** Xiaomi Redmi 11, 4/64GB 
-
 ### Publications
 
 ### Mentorships

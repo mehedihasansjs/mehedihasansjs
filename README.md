@@ -6,8 +6,17 @@ A motivated software engineer who know a table spoon of frontend and a tea spoon
 - Brain Station 23, Dhaka, Bangladesh (2022-present)
 - AITS Idea Ltd., Dhaka, Bangladesh (2020-2022)
 
+### Roadmap.sh Progress
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/6457c58f05999de060bc86c1?variant=dark&roadmaps=frontend%2Cbackend%2Cdevops)](https://roadmap.sh)
+
 ### Technologies I know
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/6457c58f05999de060bc86c1?variant=dark)](https://roadmap.sh)
+- JavaScript
+- TypeScript
+- Angular
+- HTML
+- CSS
+- SCSS
+- Tailwindcss
 
 ### Projects
 

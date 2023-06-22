@@ -7,11 +7,7 @@ A motivated software engineer who know a table spoon of frontend and a tea spoon
 - AITS Idea Ltd., Dhaka, Bangladesh (2020-2022)
 
 ### Technologies I know
-- **Frontend:** HTML, CSS, SCSS, Tailwindcss, Angular
-- **Backend:**
-- **DevOps:**
-- **Design:** Figma, Invision
-- **Management:** Git, GitHub, Azure DevOps
+![https://api.roadmap.sh/v1-badge/tall/6457c58f05999de060bc86c1?variant=dark](https://api.roadmap.sh/v1-badge/tall/6457c58f05999de060bc86c1?variant=dark)
 
 ### Projects
 

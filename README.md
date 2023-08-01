@@ -15,6 +15,9 @@ Husband, father, teammate.
 - SCSS
 - Tailwindcss
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=devlikhon&theme=dark&mode=weekly&hide_border=true&exclude_days=Sun%2CSat&hide_longest_streak=true)](https://git.io/streak-stats)
 
 ![](https://leetcard.jacoblin.cool/devlikhon?ext=heatmap)

@@ -15,8 +15,6 @@ Husband, father, teammate.
 - SCSS
 - Tailwindcss
 
-### Mentorships
-- Dhaka International University Computer Programming Club (DIU CPC), JavaScript Mentor
-- AITS Lab, Frontend Mentor
+[![GitHub Streak](https://streak-stats.demolab.com?user=devlikhon&theme=dark&hide_border=true&exclude_days=Sun%2CSat&hide_longest_streak=true)](https://git.io/streak-stats)
 
 ![](https://leetcard.jacoblin.cool/devlikhon?ext=heatmap)

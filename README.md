@@ -11,6 +11,7 @@ I'm a front-end developer currently living in Dhaka, Bangladesh.
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) 
 
 ##### Frameworks
+![Angular](https://img.shields.io/badge/Angular-cf0500?style=flat-square&logo=angular&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38bdf8?style=flat-square&logo=tailwindcss&logoColor=white) 
 
